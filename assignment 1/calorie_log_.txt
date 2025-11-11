@@ -1,0 +1,10 @@
+Daily Calorie Tracker Session
+Date and Time: Daily Calorie Limit: 1000
+
+Meal Name	Calories
+paneer	400
+roti	200
+
+Total: 600
+Average: 300.00
+Status: Within the calorie limit!

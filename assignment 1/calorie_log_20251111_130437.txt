@@ -1,0 +1,12 @@
+Daily Calorie Tracker Session
+Date and Time: 2025-11-11 13:04:37
+Daily Calorie Limit: 1000
+
+Meal Name	Calories
+dal	250
+roti	300
+rice	400
+
+Total: 950
+Average: 316.67
+Status: Within the calorie limit!
