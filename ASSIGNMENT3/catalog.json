@@ -1,0 +1,26 @@
+[
+    {
+        "title": "PRIDE AND PREJUDICE",
+        "author": "JANE AUSTEN",
+        "isbn": "978-0141439518",
+        "status": "available"
+    },
+    {
+        "title": "JANE EYRE",
+        "author": "CHARLOTTE BRONTE",
+        "isbn": "9780307455192",
+        "status": "available"
+    },
+    {
+        "title": "WINGS OF FIRE",
+        "author": "A.P.J. ABDUL KALAM",
+        "isbn": "81-7371-146-1",
+        "status": "available"
+    },
+    {
+        "title": "TRAIN TO PAKISTAN",
+        "author": "KHUSHWANT SINGH",
+        "isbn": "9788174364449",
+        "status": "available"
+    }
+]
