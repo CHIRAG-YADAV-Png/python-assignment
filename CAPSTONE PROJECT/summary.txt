@@ -1,0 +1,16 @@
+Campus Energy Summary Report
+===========================
+
+Report generated: 2025-12-02 14:02:45.841422
+
+Total Campus Consumption (all data): 65368.769 kWh
+Highest Consuming Building: Lab with 18811.218 kWh (total)
+Peak single-reading time: 2024-10-24 16:00:00 (16.684 kWh)
+
+Top observations:
+- Max daily consumption: 1111.931 kWh on 2024-09-06
+- Max weekly consumption: 7668.397 kWh (week ending 2024-09-08)
+
+Recommendations:
+- Investigate highest-consuming buildings for HVAC or equipment inefficiencies.
+- Consider peak-shaving strategies between 6 PM - 9 PM if peaks occur then.
